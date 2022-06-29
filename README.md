@@ -2,4 +2,6 @@
 
 ## Alteração do primeiro commit
 
-	2. Desfasendo o conflito
+  1. Gerando o conflito
+  2. Desfasendo o conflito
+	

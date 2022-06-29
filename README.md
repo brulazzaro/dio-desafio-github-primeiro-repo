@@ -1,4 +1,4 @@
-# dio-desafio-github-primeiro-repo
+# Dio-desafio-github-primeiro-repo
 
 ## Alteração do primeiro commit
 
